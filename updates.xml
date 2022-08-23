@@ -1,0 +1,15 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="172.4574.19" />
+      <item value="191.8026.42" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="IU-212.5712.43" />
+    <option name="LAST_TIME_CHECKED" value="1661217330500" />
+    <pluginHosts>
+      <item value="https://repo.idechajian.com" />
+      <item value="https://plugins.zhile.io" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>

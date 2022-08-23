@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="42e1f780-8bae-448d-b475-44f2122efd0a" name="upuplearn">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

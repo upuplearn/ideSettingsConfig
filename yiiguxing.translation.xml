@@ -1,0 +1,33 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="782" />
+    <option name="newTranslationDialogY" value="428" />
+    <histories>
+      <item value="Reconstructs" />
+      <item value="the type of the input and output objects to the function" />
+      <item value="subsidy Amount Str" />
+      <item value="Preferred" />
+      <item value="augend" />
+      <item value="append" />
+      <item value="Immutable" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1660803054716" />
+  </component>
+  <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="appId" value="LTAI5tH9mEqE65YrHFiqGQLu" />
+      </app-key>
+    </option>
+    <option name="translator" value="ALI" />
+  </component>
+</application>

@@ -1,0 +1,32 @@
+<application>
+  <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mariadb">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.6.0" />
+    </driver>
+    <driver id="mongo">
+      <artifact id="MongoDB" name="MongoDB" use="true" version="1.13" />
+    </driver>
+    <driver id="azure.ms">
+      <option name="auto-sync" value="false" />
+    </driver>
+    <driver id="mysql.8" driver-class="com.mysql.jdbc.Driver">
+      <artifact />
+      <artifact id="MySQL ConnectorJ" name="MySQL ConnectorJ" use="true" version="8.0.25" />
+    </driver>
+    <driver id="mysql">
+      <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.47" />
+    </driver>
+    <driver id="oracle">
+      <artifact id="Oracle" name="Oracle" use="true" version="12.2.0.1" />
+    </driver>
+    <driver id="postgresql">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+    </driver>
+    <driver id="java.sql.Driver" name="User Driver" driver-class="com.mysql.jdbc.Driver">
+      <artifact id="MySQL Connector/J 8" name="MySQL Connector/J 8" use="true" version="8.0.15" />
+    </driver>
+    <driver id="oracle.jdbc.driver.OracleDriver" name="oracle.jdbc.driver.OracleDriver" driver-class="oracle.jdbc.driver.OracleDriver">
+      <artifact id="Oracle" name="Oracle" use="true" version="12.2.0.1" />
+    </driver>
+  </component>
+</application>

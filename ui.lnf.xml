@@ -1,0 +1,21 @@
+<application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_SHOW_MODULE_GROUPS" value="false" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+    <option name="UI_COMPACT_EMPTY_MIDDLE_PACKAGES" value="false" />
+  </component>
+  <component name="UISettings">
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
+    <option name="EDITOR_TAB_LIMIT" value="30" />
+    <option name="HIDE_TABS_IF_NEED" value="false" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="13" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1036" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="20" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
+    <option name="smoothScrolling" value="false" />
+    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
+  </component>
+</application>

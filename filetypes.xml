@@ -1,0 +1,52 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.iml;*.mvn;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;_pycache_;_svn;bssver.scc;vssver2.scc" />
+    <extensionMap>
+      <mapping pattern="a" type="AUTO_DETECTED" />
+      <mapping ext="tpl" type="HTML" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="hy" type="PLAIN_TEXT" />
+      <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern="new" type="PLAIN_TEXT" />
+      <mapping pattern="profile" type="PLAIN_TEXT" />
+      <mapping pattern="my" type="PLAIN_TEXT" />
+      <mapping pattern=".QuackDecorator.java.swp" type="PLAIN_TEXT" />
+      <mapping pattern="text1" type="PLAIN_TEXT" />
+      <mapping pattern="text2" type="PLAIN_TEXT" />
+      <mapping pattern="enabled_plugins" type="PLAIN_TEXT" />
+      <mapping pattern="rabbitmq-server" type="PLAIN_TEXT" />
+      <mapping pattern="ddd" type="PLAIN_TEXT" />
+      <mapping pattern=".bash_profile" type="PLAIN_TEXT" />
+      <mapping pattern="顶顶顶" type="PLAIN_TEXT" />
+      <mapping pattern="LOG_FILE_IS_UNDEFINED" type="PLAIN_TEXT" />
+      <mapping pattern="zbzm.ftl" type="PLAIN_TEXT" />
+      <mapping ext="rpmsave" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="ncx" type="PLAIN_TEXT" />
+      <mapping ext="ovpn" type="PLAIN_TEXT" />
+      <mapping ext="setting" type="PLAIN_TEXT" />
+      <mapping ext="j" type="PLAIN_TEXT" />
+      <mapping ext="cap" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="profile" type="PLAIN_TEXT" />
+      <mapping ext="app" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext=".tabnine.model" type="Tabnine project model file" />
+      <mapping ext=".tabnine" type="Tabnine project model file" />
+      <mapping ext=".model" type="Tabnine project model file" />
+      <mapping ext="tabnine" type="Tabnine project model file" />
+      <mapping ext="model" type="Tabnine project model file" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="config" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="gitignore" approved="true" type="GitIgnore file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
+      <removed_mapping ext="yml" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="ymsss" approved="true" type="YAML" />
+      <removed_mapping pattern="application.yml" approved="true" type="Native" />
+      <removed_mapping pattern="yml" approved="true" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

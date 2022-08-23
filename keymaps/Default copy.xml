@@ -1,0 +1,21 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl alt period" />
+  </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="shift alt z" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift s" />
+  </action>
+  <action id="TranslatePlugin.TranslateAction">
+    <mouse-shortcut keystroke="control alt button3" />
+  </action>
+</keymap>
